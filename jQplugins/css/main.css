@@ -6,9 +6,6 @@
 */
 
 /*Main*/
-* {
-  box-sizing: border-box;
-}
 
 body{
   color: #B1B9C1;
@@ -40,7 +37,6 @@ ul li {
 .row {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 0 20px;
 }
 
 /*Typography*/
@@ -236,7 +232,7 @@ footer {
 .is-sticky h5 {
   width: 100%;
   position: fixed;
-  top: 0px;
+  top: 10px;
   background: #fff;
   padding: 12px 0;
   margin: 0;
@@ -340,8 +336,4 @@ footer {
   h4 {
     font-size: 20px;
   }
-}
-
-header {
-  background-color: white;
 }

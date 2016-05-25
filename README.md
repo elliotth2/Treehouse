@@ -1,2 +1,2 @@
 # projects-jQuery
-I have no idea what this will be. 
+This is repo contains all the things I'm learning in Code Louisville.'
